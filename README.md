@@ -4,8 +4,11 @@ It decrypts rsa given the inputs c, n, and d; c, p, q, dp, and dq; or c,n, and e
 
 ## Compilation
 From the project directory run the command:
-*javac -d bin/ -cp src ./src/*.java*
-
+```
+javac -d bin/ -cp src ./src/*.java
+```
 ## Running the App
 From the project directory run the command
-*java -cp bin GUI*
+```
+java -cp bin GUI
+```
